@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Henry Manyonyi, on Github as @henrymanyonyi<br>- 👀 I’m interested in web and mobile development technologies<br>- 🌱 I’m currently learning Laravel and flutter<br>- 💞️ I’m looking to collaborate on any of the above technologies.<br>- 📫 How to reach me:<br>    -> henrymanyonyi4@gmail.com<br>    -> +2547 08 180 665<br><br><!---<br>henrymanyonyi/henrymanyonyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>You can click the Preview link to take a look at your changes.<br>---><br>
+- 👋 Hi, I’m Henry Manyonyi, on Github as @henrymanyonyi<br>- 👀 I’m interested in web and mobile development technologies<br>- 🌱 I’m currently learning Laravel and flutter<br>- 💞️ I’m looking to collaborate on any of the above technologies.<br>- 📫 How to reach me:<br>    -> henrymanyonyi4@gmail.com<br>    -> +2547 08 180 665<br><br><br>
 
 
 ## 🌐 Socials:
