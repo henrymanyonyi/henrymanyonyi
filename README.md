@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Henry Manyonyi, on Github as @henrymanyonyi<br>- 👀 I’m interested in web and mobile development technologies<br>- 🌱 I’m currently learning Laravel and flutter<br>- 💞️ I’m looking to collaborate on any of the above technologies.<br>- 📫 How to reach me:<br>    -> henrymanyonyi4@gmail.com<br>    -> +2547 08 180 665<br><br><br> <a href="https://wakatime.com/@207f61d6-5aaf-4ce6-99af-fcfbda46dd23"><img src="https://wakatime.com/badge/user/207f61d6-5aaf-4ce6-99af-fcfbda46dd23.svg" alt="Total time coded since Feb 12 2023" /></a>
+- 👋 Hi, I’m Henry Manyonyi, on Github as @henrymanyonyi<br>- 👀 I’m interested in web and mobile development technologies<br>- 🌱 I’m currently building with Laravel and Python<br>- 💞️ I’m looking to collaborate on any of the above technologies.<br>- 📫 How to reach me:<br>    -> henrymanyonyi4@gmail.com<br>    -> +2547 08 180 665<br><br><br> <a href="https://wakatime.com/@207f61d6-5aaf-4ce6-99af-fcfbda46dd23"><img src="https://wakatime.com/badge/user/207f61d6-5aaf-4ce6-99af-fcfbda46dd23.svg" alt="Total time coded since Feb 12 2023" /></a>
 
 
 ## 🌐 Socials:
